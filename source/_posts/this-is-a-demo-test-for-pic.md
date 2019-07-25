@@ -13,10 +13,9 @@ this is a demo test for pic!
 ![新垣结衣](1.jpg)
 ### 新垣结衣
 
-{% asset_img 2.jpg This is an image %}
+![新垣结衣](2.jpg)
 ### 斋藤飞鸟
 
 
-<div align="center"> <img src="./this-is-a-demo-test-for-pic/3.jpg"/> </div>
-
+![新垣结衣](3.jpg)
 ### 西野七濑

@@ -442,7 +442,7 @@ gitment:
 # Also see: https://github.com/DzmVasileusky/needShareButton
 # iconStyle: default | box
 # boxForm: horizontal | vertical
-# position: top / middle / bottom + Left / Center / Right
+# position: top / middle / bottom + Left / Center / Right / middleRight
 # networks: Weibo,Wechat,Douban,QQZone,Twitter,Linkedin,Mailto,Reddit,
 #           Delicious,StumbleUpon,Pinterest,Facebook,GooglePlus,Slashdot,
 #           Technorati,Posterous,Tumblr,GoogleBookmarks,Newsvine,
@@ -461,7 +461,7 @@ needmoreshare2:
     options:
       iconStyle: box
       boxForm: horizontal
-      position: middleRight
+      position: Right
       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
 
 # Google Webmaster tools verification setting

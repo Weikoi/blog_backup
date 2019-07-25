@@ -11,11 +11,9 @@ this is a demo test for pic!
 
 
 ![新垣结衣](1.jpg)
-
 ### 新垣结衣
 
 {% asset_img 2.jpg This is an image %}
-
 ### 斋藤飞鸟
 
 

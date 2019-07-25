@@ -117,6 +117,6 @@ live2d:
 
 backup:
     type: git
-    theme: hexo
+    theme: next
     repository:
        github: git@github.com:Weikoi/blog_backup.git,master

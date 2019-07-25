@@ -115,6 +115,8 @@ live2d:
       enable: true
       hitokoto: false
 
+
+# 备份博客，使用命令hexo b
 backup:
     type: git
     theme: next

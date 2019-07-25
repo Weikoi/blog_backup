@@ -455,9 +455,9 @@ needmoreshare2:
       iconStyle: box
       boxForm: horizontal
       position: bottomCenter
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+      networks: Weibo,Douban,QQZone,Twitter,Facebook
   float:
-    enable: false
+    enable: true
     options:
       iconStyle: box
       boxForm: horizontal
@@ -490,7 +490,7 @@ needmoreshare2:
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
@@ -679,8 +679,7 @@ motion:
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
-
+pace: True
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce

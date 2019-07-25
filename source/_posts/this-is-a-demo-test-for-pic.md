@@ -10,12 +10,11 @@ tags:
 this is a demo test for pic!
 
 
-![新垣结衣](1.jpg)
+![](1.jpg)
 ### 新垣结衣
 
-![斋藤飞鸟](2.jpg)
+{% asset_img 2.jpg This is an image %}
 ### 斋藤飞鸟
 
-
-![西野七濑](3.jpg)
+<div align="center"> <img src="./this-is-a-demo-test-for-pic/3.jpg"/> </div>
 ### 西野七濑

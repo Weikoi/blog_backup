@@ -28,7 +28,7 @@ tags:
 #### 思路主要就是用一个hash去做存储，空间换时间的典型思路。
 
 
-Java写法：
+1. Java写法：
 ```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -42,7 +42,7 @@ class Solution {
 }
 ```
 
-Python写法
+2. Python写法：
 ```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

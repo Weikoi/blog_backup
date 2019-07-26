@@ -461,7 +461,7 @@ needmoreshare2:
     options:
       iconStyle: box
       boxForm: horizontal
-      position: Right
+      position: middleLeft
       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
 
 # Google Webmaster tools verification setting

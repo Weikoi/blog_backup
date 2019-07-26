@@ -20,3 +20,6 @@ this is a demo test for pic!
 
 <div align="center"> <img src="./this-is-a-demo-test-for-pic/3.jpg"/> </div>
 <p align="center">西野七濑</p>
+
+<div align="center"> <img src="./this-is-a-demo-test-for-pic/4.jpg"/> </div>
+<p align="center">石原里美</p>

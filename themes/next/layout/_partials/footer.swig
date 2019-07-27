@@ -47,14 +47,9 @@
 {% endif %}
 
 <div class="busuanzi-count">
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <span class="site-uv">
-      <i class="fa fa-eye"></i>
-      访客数<span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
-    </span>
-  
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>  
     <span class="site-pv">
       <i class="fa fa-bar-chart"></i>
-      访问量<span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
+      本博客累计访问量<span class="busuanzi-value" id="busuanzi_value_site_pv"></span>次
     </span>
 </div>

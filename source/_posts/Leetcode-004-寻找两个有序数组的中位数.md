@@ -5,7 +5,7 @@ categories:
 - Leetcode
 tags:
 - Leetcode
-- 递归
+- recursion
 - 面试
 - Hard Problem
 ---

@@ -101,8 +101,6 @@ class Solution:
                 break
             dp[i][0] = 1
 
-        
-
         for i in range(1, n):
             for j in range(1, m):
                 if obstacleGrid[i][j] == 1:

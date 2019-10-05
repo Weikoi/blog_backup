@@ -1,9 +1,30 @@
 ### hexo blog的所需插件
 
-localsearch: npm install hexo-generator-searchdb --save
-
-deployer: npm install hexo-deployer-git --save
 
 
+```shell
+npm install hexo-cli -g
+```
 
-backup: npm install hexo-git-backup --save
+```shell
+npm install hexo --save
+```
+
+localsearch: 
+
+```shell
+npm install hexo-generator-searchdb --save
+```
+
+deployer: 
+
+```shell
+npm install hexo-deployer-git --save
+```
+
+backup:
+
+```shell
+npm install hexo-git-backup --save
+```
+

@@ -66,18 +66,18 @@ class Solution {
 2. Python写法：
 ```python
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-    	if len(nums)==1:
-    		return 1
-    	i=0
-    	j=1
-    	while(i<len(nums) and j<len(nums)):
-    		if nums[i]!=nums[j]:
-    			i+=1
-    			nums[i]=nums[j]
-    			j+=1
-    		else:
-    			j+=1
-    	return i+1
+	def removeDuplicates(self, nums: List[int]) -> int:
+		if len(nums)==1:
+			return 1
+		i=0
+		j=1
+		while(i<len(nums) and j<len(nums)):
+			if nums[i]!=nums[j]:
+				i+=1
+				nums[i]=nums[j]
+				j+=1
+			else:
+				j+=1
+		return i+1
     	
 ```
